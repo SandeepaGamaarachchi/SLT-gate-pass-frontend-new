@@ -13,6 +13,7 @@
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.6",
     "axios": "^1.7.9",
+    "framer-motion": "^12.17.3",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.2",
     "lucide-react": "^0.475.0",
